@@ -7,7 +7,7 @@
 * static & non-static function 在呼叫的方式有何不同？
 
 ## Laravel
-* 從輸入網址到看到畫面，總共經過了哪些步驟？（哪些檔案被執行了？）
+* 請解釋 Laravel 的 request 生命週期。（哪些檔案被執行了？）
 
 ## HTML
 * 何謂 tag？何謂 attribute？
